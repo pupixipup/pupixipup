@@ -17,11 +17,11 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-- :seedling: I'm an entry-level front-end developer. Main stack: React, TypeScript, SCSS
+- :seedling: I'm a web developer with an experience both in Front- and Back-end development. My tech stack is React, TypeScript, NodeJS, but I am continuosly learning enw technologies and master my skills.
 
-- :telescope: I’m studying New Media Design program (Bachelor, 2nd year) at Jönköping University, Sweden. 
+- :telescope: I’m studying New Media Design program (Bachelor, 2nd year) at Jönköping University, Sweden. This program is about Graphic Design and Web development.
 
-- :zap: In my free time, I play videogames and that's it.
+- :zap: When it comes to my hobbies, I love playing videogames and learning languages. I am learning Polish and Swedish in my spare time :)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pupixipup&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
