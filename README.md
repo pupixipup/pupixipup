@@ -22,7 +22,3 @@
 - :telescope: I’m studying New Media Design program (Bachelor, 2nd year) at Jönköping University, Sweden. This program is about Graphic Design and Web development.
 
 - :zap: When it comes to my hobbies, I love playing videogames and learning languages. I am learning Polish and Swedish in my spare time :)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pupixipup&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pupixipup&theme=dark&hide_border=true&border_radius=25)](https://git.io/streak-stats)
