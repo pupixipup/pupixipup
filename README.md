@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/zMr7ul26OxrVbgPic8/giphy.gif" width="100"/>
+
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/romas-bitinas-b90187232/">
@@ -16,9 +16,3 @@
   Greetings!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-
-- :seedling: I'm a web developer with an experience both in Front- and Back-end development. My tech stack is React, TypeScript, NodeJS, but I am continuosly learning enw technologies and master my skills.
-
-- :telescope: I’m studying New Media Design program (Bachelor, 2nd year) at Jönköping University, Sweden. This program is about Graphic Design and Web development.
-
-- :zap: When it comes to my hobbies, I love playing videogames and learning languages. I am learning Polish and Swedish in my spare time :)
